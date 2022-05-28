@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32413.511
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HM_APIs", "HM_APIs\HM_APIs.csproj", "{96235D0C-E484-4D75-920A-2CDE4C25B336}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HM_APIs", "HM_APIs\HM_APIs.csproj", "{72A6A6F1-29A9-4B33-AA20-2FF61E4375F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{96235D0C-E484-4D75-920A-2CDE4C25B336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96235D0C-E484-4D75-920A-2CDE4C25B336}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96235D0C-E484-4D75-920A-2CDE4C25B336}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96235D0C-E484-4D75-920A-2CDE4C25B336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A6A6F1-29A9-4B33-AA20-2FF61E4375F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A6A6F1-29A9-4B33-AA20-2FF61E4375F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A6A6F1-29A9-4B33-AA20-2FF61E4375F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A6A6F1-29A9-4B33-AA20-2FF61E4375F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {89107299-C244-4250-BC93-7988BBD46DA7}
+		SolutionGuid = {13E97EC1-022A-436B-8B4A-2B4FAD4363F9}
 	EndGlobalSection
 EndGlobal
